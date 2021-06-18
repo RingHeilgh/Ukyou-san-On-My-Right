@@ -1,15 +1,15 @@
 {
   "title": "Ukyou-san On My Right",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "1": {
+      "title": "",
+      "volume": "",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/NOi7xQM/"
+        "RingHeilgh": "/proxy/api/imgur/chapter/NOi7xQM/"
       },
       "last_updated": "1616368746"
     }
