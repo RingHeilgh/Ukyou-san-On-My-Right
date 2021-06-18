@@ -1,17 +1,17 @@
 {
   "title": "Ukyou-san On My Right",
-  "description": "Ukyou-san On My Right",
-  "artist": "あきやま阳光",
-  "author": "あきやま阳光",
-  "cover": "https://media.discordapp.net/attachments/843531995110965338/855544044503302144/01.png",
+  "description": "<manga description>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "<mangacoverurl.jpg>",
   "chapters": {
-    "1": {
-      "title": "",
-      "volume": "",
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
       "groups": {
-        "RingHeilgh": "/proxy/api/imgur/chapter/NOi7xQM/"
+        "<group name>": "/proxy/api/imgur/chapter/NOi7xQM/"
       },
-      "last_updated": "1624048102"
+      "last_updated": "1616368746"
     }
-  } 
+  }
 }
